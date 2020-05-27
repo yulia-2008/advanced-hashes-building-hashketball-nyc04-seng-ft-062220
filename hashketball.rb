@@ -25,7 +25,7 @@ def game_hash
  }
  hash
  end
-
+game_hash
 =begin 
  def game_hash 
  hash={}
