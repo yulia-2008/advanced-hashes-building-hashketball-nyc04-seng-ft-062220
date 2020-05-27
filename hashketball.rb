@@ -33,8 +33,8 @@
    value[:team_name]=""
    value[:colors]=[]
    value[:players]=[]
-value.map do |ind|
-  hash[:key][:players][:player_name]
+#value.map do |ind|
+  #hash[:key][:players][:player_name]
    
   #value[:player][1]={}
  # value[:player][1][:player_name]=""
