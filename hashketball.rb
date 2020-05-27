@@ -12,7 +12,7 @@ def game_hash
   {:slam_dunks => 1}
   ]},
 :away => {:team_name =>"Charlotte Hornets", :colors => ["Turquoise", "Purple"], :players => [
-  {:player_name =>"Jeff Asrien"},
+  {:player_name =>"Jeff Adrien"},
   {:number => 4},
   {:shoe => 18},
   {:points => 10},
