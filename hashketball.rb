@@ -1,5 +1,5 @@
 def game_hash
- hash={
+=begin hash={
 :home => {:team_name =>"Brooklyn Nets", :colors => ["Black", "White"], :players => [
   {:player_name =>},
   {:number =>},
@@ -23,6 +23,9 @@ def game_hash
   {:slam_dunks =>}
   ]}
  }
+=end
+ 
   
- hash 
+ hash={}
+ hash
 end
