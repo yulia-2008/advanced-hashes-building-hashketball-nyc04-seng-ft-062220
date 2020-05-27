@@ -67,33 +67,10 @@ def game_hash
   :assists => 7, 
   :steals => 22,
   :blocks => 15,
-  :slam_dunks => 10}
+  :slam_dunks => 10},
+  
+  
 ]
 }}
  hash
  end
-game_hash
-=begin 
- def game_hash 
- hash={}
- hash[:home] = {}
- hash[:away] = {}
- hash.map do |key, value|
-   value[:team_name]=""
-   value[:colors]=[]
-   value[:players]=[]
-#value.map do |ind|
-  #hash[:key][:players][:player_name]
-   
-  #value[:player][1]={}
- # value[:player][1][:player_name]=""
-   #value[:players].each do |ind|
-    # ind={}
-   #  ind[0]={:player_name => """
-   #value.each do |team_level_key, team_level_value|
-   #team_level_value[team_key]=
- end
- hash
-end
-game_hash
-=end
