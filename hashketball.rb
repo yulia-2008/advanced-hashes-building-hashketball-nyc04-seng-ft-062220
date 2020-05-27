@@ -25,22 +25,4 @@
  }
 =end
  
- def game_hash 
- hash={}
- hash[:home] = {}
- hash[:away] = {}
- hash.each do |key, value|
-   value[:team_name]=""
-   value[:colors]=[]
-   value[:players]=[]
-  #value[:player][1]={}
- # value[:player][1][:player_name]=""
-   #value[:players].each do |ind|
-    # ind={}
-   #  ind[0]={:player_name => """
-   #value.each do |team_level_key, team_level_value|
-   #team_level_value[team_key]=
- end
- hash
-end
-game_hash
+ 
