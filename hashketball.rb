@@ -33,6 +33,7 @@ def game_hash
    value[:team_name]=""
    value[:colors]=[]
    value[:players]=[]
+   
    #value.each do |team_level_key, team_level_value|
    #team_level_value[team_key]=
  end
