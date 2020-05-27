@@ -1,4 +1,4 @@
-def game_hash
+
 =begin hash={
 :home => {:team_name =>"Brooklyn Nets", :colors => ["Black", "White"], :players => [
   {:player_name =>},
