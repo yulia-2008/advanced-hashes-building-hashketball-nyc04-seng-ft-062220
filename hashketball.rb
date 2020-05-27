@@ -40,8 +40,8 @@ def game_hash
   :steals => 22,
   :blocks => 15,
   :slam_dunks => 10}
-  ]
-}}
+]
+}
  hash
  end
 game_hash
