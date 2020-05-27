@@ -1,7 +1,6 @@
-
-=begin hash={
+ hash={
 :home => {:team_name =>"Brooklyn Nets", :colors => ["Black", "White"], :players => [
-  {:player_name =>},
+  {:player_name =>""},
   {:number =>},
   {:shoe =>},
   {:points =>},
@@ -12,7 +11,7 @@
   {:slam_dunks =>}
   ]},
 :away => {:team_name =>"Charlotte Hornets", :colors => ["Turquoise", "Purple"], :players => [
-  {:player_name =>},
+  {:player_name =>""},
   {:number =>},
   {:shoe =>},
   {:points =>},
@@ -23,8 +22,8 @@
   {:slam_dunks =>}
   ]}
  }
-=end
- 
+
+=begin 
  def game_hash 
  hash={}
  hash[:home] = {}
@@ -47,3 +46,4 @@
  hash
 end
 game_hash
+=end
