@@ -41,6 +41,5 @@ def game_hash
    #value.each do |team_level_key, team_level_value|
    #team_level_value[team_key]=
  end
- end
  hash
 end
