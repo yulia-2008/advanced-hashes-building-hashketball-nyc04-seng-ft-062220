@@ -42,7 +42,6 @@ def game_hash
   :slam_dunks => 10}
   ]
   }
- }
  hash
  end
 game_hash
