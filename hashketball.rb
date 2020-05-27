@@ -32,7 +32,7 @@ def game_hash
  hash.each do |key, value|
    value[:team_name]=""
    value[:colors]=[]
-   #value[:players]=[]
+   value[:players]=[]
    value[:player][1][:player_name]=""
  end
    #value[:players].each do |ind|
