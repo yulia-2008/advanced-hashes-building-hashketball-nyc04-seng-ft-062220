@@ -29,10 +29,12 @@
  hash={}
  hash[:home] = {}
  hash[:away] = {}
- hash.each do |key, value|
+ hash.map do |key, value|
    value[:team_name]=""
    value[:colors]=[]
    value[:players]=[]
+key
+   
   #value[:player][1]={}
  # value[:player][1][:player_name]=""
    #value[:players].each do |ind|
