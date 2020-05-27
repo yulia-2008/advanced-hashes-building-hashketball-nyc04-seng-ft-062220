@@ -26,8 +26,9 @@ def game_hash
   :rebounds => 19,
   :assists => 10, 
   :steals => 3,
-  :blocks => 12,
-  :slam_dunks => 7},
+  :blocks => 1,
+  :slam_dunks => 15},
+  
   
   ]},
 :away => {:team_name =>"Charlotte Hornets", :colors => ["Turquoise", "Purple"], 
